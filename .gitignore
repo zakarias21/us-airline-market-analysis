@@ -1,29 +1,3 @@
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-
-# Virtual environments
-venv/
-env/
-.venv/
-
-# Mac system files
+__pycache__/
 .DS_Store
-
-# VSCode settings
-.vscode/
-
-# Python environment files
-.env
-
-# Temporary files
-*.log
-*.tmp
-
-# Plotly temp files
-*.html~
